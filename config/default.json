@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://irfanilham:1234@fyp-cuyah.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "fyp_JwtSecret"
+}
